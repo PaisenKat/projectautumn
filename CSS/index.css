@@ -1,3 +1,16 @@
 body{
-		
+	background-color: #ff728e;
+}
+
+.budy{
+	font-size: 3em;
+	color: #352900;
+	font-family: Modern Regular;
+	font-weight: bold;
+	text-align: center;
+	margin-top: 20%;
+}
+
+form {
+	margin: 100px;
 }
